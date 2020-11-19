@@ -56,10 +56,44 @@ hr{
   margin-top: 5px;
 }
 
-/* inizio query */
+/* inizio responsive */
 @media screen and (min-width: 768px) and (max-width:992px){
   img{
-    height: 80px;
-    margin-top: 50px;
+    height: 100px;
+    margin-top: 20px;
   }
+  .title{
+    text-align: center;
+    margin-top: 150px;
+
   }
+
+
+  }
+
+
+
+
+@media screen and (max-width:768){
+  img{
+  height: 50px;
+
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end */
