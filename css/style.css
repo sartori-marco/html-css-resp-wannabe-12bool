@@ -11,8 +11,8 @@
 
 .row [class*="col-"]{
   height: 100%;
-  border: 1px solid black;
-  background-color: pink;
+  /* border: 1px solid black; */
+  /* background-color: pink; */
 }
 
 .title{
